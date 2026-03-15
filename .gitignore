@@ -1,0 +1,12 @@
+.vscode
+malaria1.png
+malaria2.png
+malaria3.png
+malaria4.png
+malaria5.png
+malaria6.png
+malaria7.png
+mobilenet_malaria.keras
+resnet50_malaria.keras
+vgg19_malaria.keras
+cell_images
